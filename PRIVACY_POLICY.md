@@ -105,4 +105,4 @@ If you have any questions, concerns, or requests regarding this Privacy Policy o
 
 - **Developer:** Shivam Maheshwari
 - **App Name:** Carpool App
-- **Email:** `shivam.developer.contact@gmail.com` *(Replace with your primary developer email)*
+- **Email:** `shivamtensor@gmail.com`
